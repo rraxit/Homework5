@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ridon/Downloads/Homework/HW5/motion_planner/build",
+  "command": "/usr/bin/g++  -I/usr/include/ompl -I/home/ridon/Downloads/Homework/HW5/motion_planner/include -isystem /usr/include/eigen3 -g -o CMakeFiles/motion_planner.dir/src/main.cpp.o -c /home/ridon/Downloads/Homework/HW5/motion_planner/src/main.cpp",
+  "file": "/home/ridon/Downloads/Homework/HW5/motion_planner/src/main.cpp"
+},
+{
+  "directory": "/home/ridon/Downloads/Homework/HW5/motion_planner/build",
+  "command": "/usr/bin/g++  -I/usr/include/ompl -I/home/ridon/Downloads/Homework/HW5/motion_planner/include -isystem /usr/include/eigen3 -g -o CMakeFiles/motion_planner.dir/src/lodepng.cpp.o -c /home/ridon/Downloads/Homework/HW5/motion_planner/src/lodepng.cpp",
+  "file": "/home/ridon/Downloads/Homework/HW5/motion_planner/src/lodepng.cpp"
+},
+{
+  "directory": "/home/ridon/Downloads/Homework/HW5/motion_planner/build",
+  "command": "/usr/bin/g++  -I/usr/include/ompl -I/home/ridon/Downloads/Homework/HW5/motion_planner/include -isystem /usr/include/eigen3 -g -o CMakeFiles/motion_planner_img_parser.dir/src/image_parser.cpp.o -c /home/ridon/Downloads/Homework/HW5/motion_planner/src/image_parser.cpp",
+  "file": "/home/ridon/Downloads/Homework/HW5/motion_planner/src/image_parser.cpp"
+},
+{
+  "directory": "/home/ridon/Downloads/Homework/HW5/motion_planner/build",
+  "command": "/usr/bin/g++  -I/usr/include/ompl -I/home/ridon/Downloads/Homework/HW5/motion_planner/include -isystem /usr/include/eigen3 -g -o CMakeFiles/motion_planner_img_parser.dir/src/lodepng.cpp.o -c /home/ridon/Downloads/Homework/HW5/motion_planner/src/lodepng.cpp",
+  "file": "/home/ridon/Downloads/Homework/HW5/motion_planner/src/lodepng.cpp"
+}
+]

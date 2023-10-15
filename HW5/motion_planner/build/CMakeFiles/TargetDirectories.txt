@@ -1,0 +1,4 @@
+/home/ridon/Downloads/Homework/HW5/motion_planner/build/CMakeFiles/motion_planner.dir
+/home/ridon/Downloads/Homework/HW5/motion_planner/build/CMakeFiles/motion_planner_img_parser.dir
+/home/ridon/Downloads/Homework/HW5/motion_planner/build/CMakeFiles/edit_cache.dir
+/home/ridon/Downloads/Homework/HW5/motion_planner/build/CMakeFiles/rebuild_cache.dir
